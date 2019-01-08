@@ -1,0 +1,2108 @@
+@charset="utf-8";
+
+
+
+
+        
+nav {
+            width: 100%;
+    
+            height: 90px;
+            color: dimgray;
+            box-shadow: -21px 5px 30px #cccccc;
+            background-color: #ffffff;
+   
+    
+}
+
+
+ a{
+    color: #707070;
+     opacity: 0.8
+        75;
+}
+
+ a:hover{
+    color: #707070;
+     opacity: 1;
+}
+
+.back-white:hover{
+    
+}
+
+.back-white p{
+    color: #ffffff;
+}
+
+
+.header-logo {
+
+            margin-left: 50px;
+            font-size: 25px;
+            line-height: 90px;
+        }
+
+
+        
+.header-list {
+            margin-right: 50px;
+    position: absolute;
+    right: 0
+        }
+
+
+
+       
+.header-list li {
+            list-style: none;
+            float: right;
+            padding: 0px 25px;
+            line-height: 90px;
+        }
+
+
+
+       
+.first-view {
+            height: 690px;
+            width: 100%;
+    
+  
+
+        }
+
+
+
+.cool-word img{
+       position: relative;
+}
+
+.image1{
+       float: right;
+       width:35%;
+       height:250px;
+       position: relative;
+       left:200px;
+       bottom:400px;
+       box-shadow: 0 0 30px #000000;
+    
+}
+
+
+.image2{
+       width:30%;
+    
+    
+    position: relative;
+    bottom:400px;
+    left: 100px;
+    margin-left: 55%;
+   
+    box-shadow: 0 0 30px #000000;
+    
+}
+
+
+
+
+.cool-word{
+           padding-left: 8%;
+           padding-top: 181px;
+          font-size: 62px;
+           color: #707070;
+          font-weight:;
+    
+          
+         
+}
+
+
+.cool-word h1{
+     line-height: 75px;
+}
+
+.sample-word{
+           padding-left: ;
+           padding-top: 50px;
+           font-size: 20px;
+           color:#707070;
+           
+}       
+
+
+.sample-word p{
+         line-height: 40px;
+    position: relative;
+}
+
+
+
+
+
+
+
+
+
+
+        
+.blue {
+            
+            box-shadow: 0px 10px 90px #cccccc;
+            position: relative;
+            
+          
+
+        }
+
+        
+.company {
+            height: 145px;
+            width: 100%;
+            position: relative;
+    max-width: 1280px;
+    margin: auto;
+            
+
+
+        }
+.company p{
+          text-align: center;
+          line-height: 145px;
+    
+}
+        
+.circle {
+            border-radius: 181px;
+            width: 17%;
+            box-shadow: 0 0 99px #eeeeee;
+            margin: auto;
+        }
+
+.circle-1 {
+            border-radius: 181px;
+
+            box-shadow: 0 0 99px #eeeeee;
+            margin: auto;
+        }
+
+
+
+.circle p{
+    text-align: center;
+}
+
+circle-1 p{
+    text-align: center;
+}
+
+        
+.representative {
+            height: 800px;
+            width: 100%px;
+     max-width: 1280px;
+    margin: auto;
+        }
+.statement{
+    font-size: 30px;
+    color: #707070;
+    text-align: center;
+    margin-top: 200px;
+}
+
+
+
+
+
+.border-circle img{
+    width: 14%;
+   display: block;
+    margin: auto;
+    position: relative;
+    bottom:40px;
+}
+    
+
+
+.statement-contents{
+    
+}
+
+
+
+.statement-contents p{
+    font-size: 15px;
+    color: #707070;
+    text-align: center;
+    position: relative;
+    bottom:80px;
+   
+    line-height: 30px;
+    
+    
+}
+
+.leader{
+    text-align: center;
+    position: relative;
+    bottom: 100px;
+    font-size: 20px;
+    color:#707070;
+    
+}
+
+.more-detail{
+    position: relative;
+    bottom:80px;
+    
+    
+}
+
+.more-detail p{
+    color:#ffffff;
+    text-align: center;
+    line-height: 51px;
+}
+
+        
+.members {
+            height: 800px;
+            width: 100%;
+    max-width: 1280px;
+    margin: auto;
+    
+        }
+
+
+.flame1{
+    position: relative;
+    left:8%;
+    width: 40%;
+}
+
+
+
+
+.team-kinmoku h1{
+    font-size: 30px;
+    color:#707070;
+}
+
+
+
+
+
+
+
+.line img{
+    width:40%;
+}
+
+.explain p{
+    font-size: 15px;
+    line-height: 30px;
+    color: #707070;
+}
+
+.member-check{
+    border-radius: 181px;
+    box-shadow: 0 0 99px #eeeeee;
+    color:#ffffff;
+    position: relative;
+    top:50px;
+
+}
+
+
+.member-check p{
+    text-align: center;
+    line-height: 51px;
+}
+
+
+
+.team-explain{
+    display: block;
+    width:36%;
+    float: right;
+    position: relative;
+    right:100px;
+    top:20px;
+    
+}
+
+        
+.activity {
+            height: 800px;
+            width: 100%;
+            background-color: #F8FAFD;
+    max-width: ;
+    margin:;
+            
+            
+        }
+
+
+
+.activity-top{
+   
+}
+
+
+.activity-top p{
+    color:#707070;
+    position: relative;
+    top:50px;
+    
+    
+}
+
+.activity h1{
+    font-size: 30px;
+    color:#707070;
+    
+    
+}
+
+
+.activity img{
+    width: 48%;
+    float:left;
+    position: relative;
+   
+        
+}
+
+
+.activity-explain{
+    position: relative;
+    top:50px;
+}
+
+
+
+.htmlcss{
+    background-color: #6948FB;
+    margin-right: 3%;
+    
+    
+}
+
+
+
+
+
+.wordpress{
+    background-color: #4288FB;
+    
+     margin-right: 3%;
+    
+}
+
+
+
+.dropbox{
+    background-color: #FFB52F;
+    margin-right: 3%;
+    
+}
+
+.pinterest{
+    background-color: #FF702F;
+    
+    
+}
+
+
+.col-sm{
+    border-radius: 10px;
+    
+     
+    
+    
+}
+
+.activity-explain span{
+    color:#ffffff;
+    font-size: 36px;
+    position: relative;
+    top:20px;
+}
+
+
+
+.activity-explain h3{
+    color:#ffffff;
+    position: relative;
+    top:70px;
+    font-size:20px;
+}
+
+
+.activity-explain p{
+    color:#ffffff;
+    position: relative;
+    top:100px;
+}
+
+
+
+.row{
+    position: relative;
+    top:100px;
+    height: 331px;
+}
+
+
+
+
+
+.activity-top{
+    width: 35%;
+    margin-left: 8%;
+    position: relative;
+    top:90px;
+    
+}
+
+
+
+
+
+
+
+
+
+.flex{
+    
+   display: flex;
+    position: relative;
+    top:90px;
+    
+    
+}
+
+.flex span{
+    float: left;
+    color:#ffffff;
+    font-size:36px;
+    position: relative;
+    left:4%;
+    top:10px;
+}
+
+
+.flex h2{
+    color:#ffffff;
+    font-size: 20px;
+    position: relative;
+    left:5%;
+    
+    
+    
+    
+}
+
+
+.flex p{
+    color:#ffffff;
+    font-size: 15px;
+    line-height: 20px;
+    position: relative;
+    left: 2%;
+    
+    padding: 5px
+    
+}
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+   
+    
+ 
+    
+        
+    
+}
+
+
+.dropbox{
+    
+    background-color: #FFB52F;
+    
+    height: 331px;
+}
+
+
+        
+.word {
+    background-image: url(images/kagiflame.jpg);
+    height: 800px;
+    width: 100%;
+    max-width: 1280px;
+    margin: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 65% auto;
+        }
+
+
+
+.word p{
+    text-align: center;
+   position: relative;
+    top:350px;
+  
+}
+
+
+        
+.detail {
+            height: 500px;
+            width: 100%;
+            background-color: #4288FB;
+    max-width: ;
+    
+    position: relative;
+    
+        }
+
+.main-detail p{
+    text-align: center;
+    font-size: 30px;
+    color: #ffffff;
+    
+}
+
+
+.main-detail img{
+    display: none;
+}
+
+
+
+.border-circle2 hr{
+    background-color: #ffffff;
+    width:15%;
+    position: relative;
+    bottom: 50px;
+}
+
+.border-circle2 p{
+    
+    background-color: #ffffff;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    bottom: 97px
+}
+
+
+.main-more-detail{
+    color: #ffffff;
+    text-align: center;
+    position: relative;
+    bottom:160px;
+    line-height: 17px;
+    font-size:15px;
+    
+   
+    
+}
+
+.detail-contents{
+
+    
+    width: 33%;
+    height: 200px;
+    float: left;
+    position: relative;
+    bottom: 150px;
+   
+    
+    
+    
+    
+    
+}
+
+.details{
+    text-align: center;
+    color: #ffffff;
+    position: relative;
+    bottom:200px;
+    
+}    
+    
+
+.details h2{
+    position: relative;
+    bottom:50px;
+}
+    
+
+
+
+
+
+
+
+
+       
+footer {
+            height: 400px;
+            width: 100%;
+     max-width: 1280px;
+    margin: auto;
+}
+           
+
+
+.footer-logo {
+    text-align: center;
+    padding-top: 200px;
+   
+    }
+
+.footer-logo img{
+    height: 100px;
+    
+}
+
+
+
+
+.Follow-us{
+    color: #707070;
+    text-align: center;
+    font-size: 20px;
+    position: relative;
+    top:20px;
+    
+}
+
+
+.facebook{
+    text-align: center;
+    opacity: 0.3;
+}
+ 
+  
+
+
+
+
+.footer-under{
+    text-align: center;
+    padding-top: 50px;
+    opacity:0.6;
+    color:#707070;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*ここからページ２*/
+
+
+
+.reprezentative2{
+     height: 700px;
+            width: 100%px;
+}
+
+
+
+.kinmoku-members{
+    width: 100%;
+    height: 500px;
+    
+}
+
+
+.kinmoku-coment{
+   
+    display: block;
+    width: 53%;
+    margin: auto
+}
+
+
+.kinmoku-coment h1{
+    font-size: 30px;
+    color:#707070;
+}
+
+.kinmoku-coment img{
+    float: left;
+    width: 32%;
+    position: relative;
+    top:10px;
+    
+}
+
+.kinmoku-coment p{
+    font-size: 15px;
+    line-height: 30px;
+    position: relative;
+    top:50px;
+    color: #707070;
+    
+}
+
+
+
+
+
+
+
+
+/*ここからページ３*/
+
+
+
+
+.about-kinmoku{
+    height: 385px;
+    width: 100%;
+    background: linear-gradient(#6948FB, #4288FB);
+}
+
+
+
+
+
+.about-kinmoku h1{
+    text-align: center;
+    color:#ffffff;
+    font-size:30px;
+    line-height: 60px;
+    position: relative;
+    top:148px;
+    
+}
+
+.about-kinmoku hr{
+    width: 7%;
+    text-align: center;
+    color:#ffffff;
+    position: relative;
+    top:170px;
+    
+}
+
+
+
+
+.space{
+    height:120px;
+    width:100%;
+    background-color: #ffffff;
+}
+
+
+
+.active-member1{
+    width: 100%;
+    height:800px;
+    
+}
+
+
+
+
+
+.active-member2{
+    width: 100%;
+    height:800px;
+}
+
+
+
+.big-image{
+    width: 40%;
+    margin-left: 8%;
+}
+
+
+
+
+
+
+
+
+.active-member-explain{
+    display: inline-block;
+    width: 36%;
+    float: right;
+    position: relative;
+    right:8%;
+    top:56px;
+    
+    
+}
+
+
+
+.name h1{
+    color: #707070;
+    font-size:30px;
+    
+}
+
+
+.name p{
+    color:#707070;
+    font-size:15px;
+    position: relative;
+    left:150px;
+    bottom:30px
+}
+
+
+
+.left{
+    width: 47%;
+    position: relative;
+    bottom:35px;
+    
+}
+
+
+.skill{
+    color:#707070;
+    font-size: 15px;
+    
+    
+}
+
+
+
+.introduce{
+    position: relative;
+    top:30px;
+    color:#707070;
+}
+
+
+.SNS span{
+    margin-right: 41px;
+    color:#707070;
+    height:20px;
+    width: 2%;
+    position: relative;
+    top:40px;
+        
+}
+
+
+.active-member-explain{
+    display: inline-block;
+    width: 36%;
+    float: right;
+    position: relative;
+    right:8%;
+    top:56px;
+    
+    
+}
+
+
+
+.name-2 h1{
+    color: #707070;
+    font-size:30px;
+    
+}
+
+
+.name-2 p{
+    color:#707070;
+    font-size:15px;
+    position: relative;
+    left:150px;
+    bottom:30px
+}
+
+
+
+.left2{
+    width: 47%;
+    position: relative;
+    bottom:35px;
+    
+}
+
+
+.skill2{
+    color:#707070;
+    font-size: 15px;
+    
+    
+}
+
+
+
+.introduce2{
+    position: relative;
+    top:30px;
+    color:#707070;
+}
+
+
+.SNS2 span{
+    margin-right: 41px;
+    color:#707070;
+    height:20px;
+    width: 2%;
+    position: relative;
+    top:40px;
+        
+}
+
+
+
+
+
+.active-member-explain2{
+    display: inline-block;
+    width: 36%;
+    margin-left: 8%;
+    position: relative;
+    top:56px;
+    
+    
+    
+    
+    
+}
+
+
+.big-image2{
+    width: 40%;
+    position: relative;
+    bottom:125px;
+    left:4%;
+    
+    
+}
+
+
+
+
+
+
+.other-members{
+    
+    width:100%;
+    height:1620px;
+    
+    
+    
+    
+    
+}
+
+
+.other-member{
+    margin: 0;
+    padding:0;
+    
+    
+    
+}
+
+.person{
+    
+    height:340;
+
+}
+
+
+
+.name2{
+    position: relative;
+    top:30px;
+}
+
+.person-under{
+    width: 223px;
+}
+
+
+
+.-engineer{
+    color:#707070;
+    font-size:15px;
+    position: relative;
+    top:10px;
+    
+}
+
+
+.sns2 span{
+    margin-right: 41px;
+    color:#707070;
+    height:20px;
+    width: 2%;
+    position: relative;
+    top:30px;
+
+    
+}
+
+
+
+.name2 h1{
+    color: #707070;
+    font-size:20px;
+    
+}
+
+
+.name2 p{
+    color:#707070;
+    font-size:15px;
+    position: relative;
+    left:150px;
+    bottom:30px
+}
+
+
+
+
+.person-under{
+    
+    
+}
+
+
+
+
+.space2{
+    width:100%;
+    height:100px;
+        
+}
+
+
+
+
+
+/*メニューアイコン*/
+
+
+
+
+
+
+.menu{
+        width:100%;
+        height: 100%;
+        background: linear-gradient(#6948FB, #4288FB);
+        margin-top: 0px;
+        padding-top: 0px;
+    }  
+
+
+
+
+
+
+
+
+.menu-icon {
+  color: #707070;
+  
+  font-size: 25px;
+  display: none;
+  position: relative;
+  left:26%;
+  
+  
+}
+
+
+.menu h2{
+    color:#ffffff;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 60px;
+    
+    
+    
+
+    
+}
+
+
+
+.menu-contents{
+   position: relative;
+    top:25%;
+    
+}
+
+
+.fa-times{
+    
+    color:#ffffff;
+    position: absolute;
+    left:90%;
+    top:40px;
+        
+    
+   
+      }
+
+
+
+
+
+    
+
+/*レスポンシブ*/
+
+
+
+@media (min-width:768px) {
+    .team-explain{
+        position:absolute;
+        top:2000px;
+        
+    }
+}
+
+
+
+
+
+@media (max-width:991px)and(min-width:768){
+    .menu-icon {
+        display: none;
+        
+        
+        
+        
+        
+        
+    }
+    
+    
+    .other-members{
+        height: 2550px;
+        
+    }
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:767px){
+    
+    
+    
+    .header-list{
+        display: none;
+    
+        
+    }
+.menu-icon{
+        display: block;
+        margin: 23px;
+    
+}   
+        
+   
+ header{
+       height: 60px ;
+    }
+   
+    
+.header-logo{
+    line-height: 60px;    
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .menu{
+        width:100%;
+        height: 100%;
+        background: linear-gradient(#6948FB, #4288FB);
+        
+    }  
+    
+    html, body {
+  height: 100%;
+     }
+    
+    
+    nav{
+        height: 60px;
+        
+    }
+    
+    
+    .first-view{
+        height: 745px;
+    }
+    
+    .cool-word{
+        position: relative;
+        bottom:100px;
+    }
+    
+    .cool-word h1{
+        font-size: 25px;
+        
+    }
+    
+    .sample-word {
+        position: relative;
+        bottom:50px;
+    }
+    
+    .sample-word p{
+        font-size: 10px;
+        
+    }
+    
+    
+    .image1{
+      float: none;
+        position: static;
+      top: 0px;
+        bottom: 20px;
+        margin-left: 0auto;
+        margin-right: 0auto;
+      width: 214px;
+        height: 216px;
+        
+        
+      
+        
+    }
+    
+    
+    .image2{
+        width:195px;
+        height:153px;
+        margin-left: 0px;
+        position:relative;
+        bottom:50px;
+        
+        
+        
+        
+        display: ;
+        
+    }
+    
+    
+    .circle-1{
+        height:95px;
+        
+        
+        
+    }
+    
+    .company{
+        height: 95px;
+    }
+    
+    .circle-1 p{
+        font-size: 15px;
+        text-align: center;
+        line-height: 95px;
+        position: relative;
+        bottom:100px
+    }
+    
+    .representative{
+        height: 600px;
+        max-width: 450px;
+        margin: auto;
+        
+        
+    }
+    
+    
+    .representative2{
+        max-width: 450px;
+        margin: auto;
+    }
+    
+    .statement{
+        font-size:25px;
+        
+         }
+    
+    .border-circle img{
+        width:194px;
+    }
+    
+    .statement-contents{
+       padding:0px 30px;
+    }
+    
+    .statement-contents p{
+        font-size: 14px;
+        text-align: left;
+    } 
+    
+    .leader{
+        font-size:15px;
+    }
+    
+    .circle{
+        width:315px;
+        
+    }
+    
+    
+    .members{
+        height: 1000px;
+        text-align: center;
+    }
+    
+    
+    .flame1{
+        width:315px;
+        position:relative;
+        left:0%;
+       
+        
+        
+    }
+    
+    .team-explain{
+        float: none;
+        width:85%;
+        position: static;
+        left:100px;
+        margin: auto;
+        margin-top: 100px;
+        max-width:450px;
+        
+        
+        
+    }
+    
+    .team-kinmoku h1{
+        font-size: 25px;
+        text-align: left;
+    }
+    
+    
+    
+    .line img{
+        width: 192px;
+        margin-right: 100%;
+        
+    }
+    
+    
+    .member-check{
+        margin: auto;
+    }
+    
+    
+    
+    .activity{
+        height: 1800px;
+        
+    }
+    
+    .activity-top h1{
+        font-size: 25px;
+    }
+
+
+    .activity img{
+        width:192px;
+    }
+
+
+    .activity-top {
+      width:100%;
+      margin: auto; 
+        padding-right: 8%;
+        padding-left: 8%;
+    }
+
+    .activity-top p{
+        font-size: 15px;
+    }
+    
+    .htmlcss{
+        height: 300px;
+        margin-bottom: 10px;
+        margin-left: 8%;
+        margin-right: 8%;
+    }
+    
+    .wordpress{
+        height: 300px;
+        margin-bottom: 10px;
+        margin-left: 8%;
+        margin-right: 8%;
+        
+    }
+
+
+    .dropbox{
+        height: 300px;
+        margin-bottom: 10px;
+        margin-left: 8%;
+        margin-right: 8%;
+    }
+
+    .pinterest{
+        height: 300px;
+        margin-bottom: 10px;
+        margin-left: 8%;
+        margin-right: 8%;
+    }
+
+
+    .word{
+        background-size:80% auto;
+        
+    }
+    
+    
+    .word p{
+        
+    }
+
+
+    .detail{
+        height: 706px;
+        
+        
+    }
+
+
+    .border-circle2 hr{
+        display: none;
+    }
+
+
+    .border-circle2 p{
+        display: none;
+    }
+    
+    .main-detail p{
+        font-size: 25px;
+        text-align: left;
+        margin-left: 8%;
+        position: relative;
+        top:20px;
+    }
+    
+    
+    .main-detail img{
+        display: block;
+        width: 192px;
+        margin-left: 8%;
+        position: relative;
+        bottom:30px;
+        position: relative;
+        top: 0px;
+    }
+
+
+    .main-more-detail p{
+        text-align: left;
+        margin-left: 8%;
+        position: relative;
+        top:110px;
+        
+    }
+
+
+    .details p{
+        position: relative;
+        top:60px;
+        text-align: left;
+        margin-left: 8%;
+        font-weight: lighter;
+        font-size: 12px;
+    }
+
+
+    .details h2{
+        bottom:0px;
+        top:60px;
+        font-size: 17px;
+        text-align: left;
+        margin-left: 8%;
+    }
+    
+    
+    
+    
+    
+    
+    footer{
+        height: 100px;
+    }
+
+    
+        
+    
+
+/*レスポンシブ　　　ページ２　　*/
+    
+    .kinnmoku-members{
+        max-width: 600px;
+        margin: auto;
+        height: 500px;
+    }
+    
+    .kinmoku-coment {
+        width:100%;
+        padding: 0 30px;
+        max-width: 450px;
+        margin: auto;
+    }
+    
+    
+    .kinmoku-coment h1{
+        font-size: 25px;
+        position: relative;
+        
+    }
+
+    
+    .kinmoku-coment img{
+        
+        width:192px;
+        position: relative;
+        bottom:110px;
+    }
+    
+    
+    .kinmoku-coment p{
+        font-size: 14px;
+        
+    }
+
+
+
+
+
+
+
+
+
+/*レスポンシブデザイン　　　ページ３　　*/
+
+.about-kinmoku{
+    height: 249px;
+    
+}
+
+.about-kinmoku h1{
+    position: relative;
+    top:100px;
+    font-size: 22px;
+}
+
+
+.about-kinmoku hr{
+    display: none;
+}
+
+
+.active-member1{
+    height: 920px;
+    max-width: 375px;
+    margin: auto;
+    
+}
+
+
+.big-image{
+    width: 315px;
+    margin-left: 8%;
+    position: relative;
+    bottom: 60px;
+    
+}
+
+
+
+.big-image2{
+    width: 315px;
+    margin-left: 8%;
+    position: relative;
+    bottom:480px;
+}
+
+.active-member-explain{
+    width: 315px;
+    float: none;
+    display: contents;
+    position: relative;
+    bottom:200px;
+    
+    
+    
+    
+    
+    
+}
+
+    .name{
+        position: relative;
+        bottom:30px;
+    }
+
+    
+    .name h1{
+    font-size: 25px;
+    text-align: left;
+    margin-left: 8%;
+    
+    
+}
+  
+
+.left{
+    width: 192px;
+    margin-left: 8%;
+    position: relative;
+    bottom:65px;
+}
+
+.skill{
+      margin-left: 8%; 
+     position: relative;
+     bottom:35px;
+    }
+
+
+.introduce{
+    display: inline-block;
+    width: 315px;
+    margin-left: 8%;  
+     position: relative;
+     top:0px;
+    bottom:40px;
+    font-size: 14px;
+   
+    }
+
+
+    .SNS{
+        position: relative;
+        bottom:50px;
+    }
+    
+    .SNS span{
+    
+    margin-left: 8%;
+    display:inline-block;
+    
+    
+    }
+
+
+.active-member2{
+        height: 920px;
+        max-width: 375px;
+        margin: auto;
+    }
+
+.active-member-explain{
+    width: 315;
+    float: none;
+    display: contents;
+    position: relative;
+    
+    
+    
+    
+    
+    
+}
+
+
+    .active-member-explain2{
+        position: relative;
+        
+        display: contents;
+    }
+    
+    
+    
+    
+    
+    .name-2 h1{
+    font-size: 25px;
+    text-align: left;
+    margin-left: 8%;
+       
+    
+    
+}
+    
+    .name-2{
+        color:#707070;
+        position: relative;
+        top:330px;
+    }
+  
+
+.left2{
+    width: 192px;
+    margin-left: 8%;
+    position: relative;
+    top:300px;
+}
+
+.skill2{
+      margin-left: 8%;
+    position: relative;
+    top:330px;
+    
+    
+    }
+
+
+.introduce2 p{
+    display: block;
+    width: 315px;
+    margin-left: 8%;  
+    position: relative;
+    top:330px;
+    font-size: 14px;
+    
+    
+    }
+
+
+.SNS2 span{
+    
+   margin-left: 8%;
+    position: relative;
+    top:350px;
+    
+    
+    
+    }
+
+
+
+    .other-members{
+        height:4600px;
+        max-width: 375px;
+        margin: auto;
+        
+    }
+
+    .other-member{
+        margin-left: 8%;
+    }
+
+
+
+    .word{
+        height:350px;
+        max-width: 500px;
+    }
+    
+    
+    
+
+
+
+    .word p{
+        position: relative;
+        top:120px;
+    }
+
+
+
+
+
+
+     
+
+}
+
+
+
+
+
+@media screen and (min-width:576px) and ( max-width:767px){
+    .activity{
+        height: 1000px;
+    }
+    
+    
+    .detail{
+        height: 400px;
+    }
+    
+    .kinmoku-members{
+        height: 700px;
+    }
+}
+
+
+
+    
+@media screen and (min-width:768px) and ( max-width:991px){
+    .other-members{
+        height: 2550px;
+    }
+}
+
+
+
+@media  ( max-width:369px){
+    .header-logo{
+         position: relative;
+         bottom:10px;
+       }
+    .menu-icon{
+        position: relative;
+        bottom:33px;
+        margin: auto;
+        margin-left: 80px;
+        }
+    
+    
+    headeer{
+        width: 100%;
+    }
+    
+    
+}
+
+
+@media  ( max-width:373px){
+    .first-view{
+        height: 800px;
+    }
+    
+    .company p{
+        position: absolute;
+        top:5px;
+        
+        
+    }
+}
+
+
+
+
+
+@media screen and (min-width:320px) and ( max-width:333px){
+    .statement{
+        margin-top: 50px;
+    }
+    
+    
+    .representative{
+        height: 800px;
+    }
+    
+    .reprezentative2{
+        height: 600px;
+        
+    }
+    
+    
+    .statement{
+        position: relative;
+        top:50px;
+    }
+    
+    .border-circle{
+        position: relative;
+        top: 50px;
+    }
+    
+    .statement-contents{
+        
+        position: relative;
+        top:50px;
+    }
+    
+    
+    
+    
+    
+    .leader{
+        position: relative;
+        top: 30px;
+    }
+
+
+
+    .kinmoku-members{
+        height: 800px;
+    }
+
+
+
+    .word{
+        height:  300px;
+    }
+
+
+    .word p{
+      
+        
+        
+    }
+
+
+
+
+
+
+
+}
+
+
+
+
+@media screen and (min-width:334px) and ( max-width:575px){
+     .kinmoku-members{
+        height: 700px;
+    }
+}
+
+
+@media screen and (min-width:326px) and ( max-width:333px){
+    .word{
+        height:350px;
+    }
+}
+
+
+
+
+@media screen and (min-width:320px) and ( max-width:365px){
+    .big-image{
+        width:300px;
+        margin: auto;
+    }
+    
+    .big-image2{
+        width:300px;
+        margin: auto;
+    }
+    
+    .person{
+        width:300px;
+        margin: auto;
+    }
+}
+
+
