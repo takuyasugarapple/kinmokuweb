@@ -1,138 +1,139 @@
 @charset="utf-8";
 
 
+::selection {
+    background-color:#4288FB;
+    color: #eee;
+}
 
 
-        
+
+
 nav {
-            width: 100%;
-    
-            height: 90px;
-            color: dimgray;
-            box-shadow: -21px 5px 30px #cccccc;
-            background-color: #ffffff;
-   
-    
+    width: 100%;
+
+    height: 90px;
+    color: dimgray;
+    box-shadow: -21px 5px 30px #cccccc;
+    background-color: #ffffff;
+
+
 }
 
 
- a{
+a {
     color: #707070;
-     opacity: 0.8
-        75;
+    opacity: 0.8 75;
 }
 
- a:hover{
+a:hover {
     color: #707070;
-     opacity: 1;
+    opacity: 1;
 }
 
-.back-white:hover{
-    
-}
+.back-white:hover {}
 
-.back-white p{
+.back-white p {
     color: #ffffff;
 }
 
 
 .header-logo {
 
-            margin-left: 50px;
-            font-size: 25px;
-            line-height: 90px;
-        }
+    margin-left: 50px;
+    font-size: 25px;
+    line-height: 90px;
+}
 
 
-        
+
 .header-list {
-            margin-right: 50px;
+    margin-right: 50px;
     position: absolute;
     right: 0
-        }
+}
 
 
 
-       
+
 .header-list li {
-            list-style: none;
-            float: right;
-            padding: 0px 25px;
-            line-height: 90px;
-        }
+    list-style: none;
+    float: right;
+    padding: 0px 25px;
+    line-height: 90px;
+}
 
 
 
-       
+
 .first-view {
-            height: 690px;
-            width: 100%;
-    
-  
-
-        }
+    height: 690px;
+    width: 100%;
 
 
 
-.cool-word img{
-       position: relative;
-}
-
-.image1{
-       float: right;
-       width:35%;
-       height:250px;
-       position: relative;
-       left:200px;
-       bottom:400px;
-       box-shadow: 0 0 30px #000000;
-    
 }
 
 
-.image2{
-       width:30%;
-    
-    
+
+.cool-word img {
     position: relative;
-    bottom:400px;
+}
+
+.image1 {
+    float: right;
+    width: 35%;
+    height: 250px;
+    position: relative;
+    left: 200px;
+    bottom: 400px;
+    box-shadow: 0 0 30px #000000;
+
+}
+
+
+.image2 {
+    width: 30%;
+
+
+    position: relative;
+    bottom: 400px;
     left: 100px;
     margin-left: 55%;
-   
+
     box-shadow: 0 0 30px #000000;
-    
+
 }
 
 
 
 
-.cool-word{
-           padding-left: 8%;
-           padding-top: 181px;
-          font-size: 62px;
-           color: #707070;
-          font-weight:;
-    
-          
-         
+.cool-word {
+    padding-left: 8%;
+    padding-top: 181px;
+    font-size: 62px;
+    color: #707070;
+
+
+
 }
 
 
-.cool-word h1{
-     line-height: 75px;
+.cool-word h1 {
+    line-height: 75px;
 }
 
-.sample-word{
-           padding-left: ;
-           padding-top: 50px;
-           font-size: 20px;
-           color:#707070;
-           
-}       
+.sample-word {
+    padding-left: ;
+    padding-top: 50px;
+    font-size: 20px;
+    color: #707070;
+
+}
 
 
-.sample-word p{
-         line-height: 40px;
+.sample-word p {
+    line-height: 40px;
     position: relative;
 }
 
@@ -145,65 +146,67 @@ nav {
 
 
 
-        
+
 .blue {
-            
-            box-shadow: 0px 10px 90px #cccccc;
-            position: relative;
-            
-          
 
-        }
+    box-shadow: 0px 10px 90px #cccccc;
+    position: relative;
 
-        
+
+
+}
+
+
 .company {
-            height: 145px;
-            width: 100%;
-            position: relative;
+    height: 145px;
+    width: 100%;
+    position: relative;
     max-width: 1280px;
     margin: auto;
-            
 
 
-        }
-.company p{
-          text-align: center;
-          line-height: 145px;
-    
+
 }
-        
+
+.company p {
+    text-align: center;
+    line-height: 145px;
+
+}
+
 .circle {
-            border-radius: 181px;
-            width: 17%;
-            box-shadow: 0 0 99px #eeeeee;
-            margin: auto;
-        }
+    border-radius: 181px;
+    width: 17%;
+    box-shadow: 0 0 99px #eeeeee;
+    margin: auto;
+}
 
 .circle-1 {
-            border-radius: 181px;
+    border-radius: 181px;
 
-            box-shadow: 0 0 99px #eeeeee;
-            margin: auto;
-        }
-
-
-
-.circle p{
-    text-align: center;
-}
-
-circle-1 p{
-    text-align: center;
-}
-
-        
-.representative {
-            height: 800px;
-            width: 100%px;
-     max-width: 1280px;
+    box-shadow: 0 0 99px #eeeeee;
     margin: auto;
-        }
-.statement{
+}
+
+
+
+.circle p {
+    text-align: center;
+}
+
+circle-1 p {
+    text-align: center;
+}
+
+
+.representative {
+    height: 800px;
+    width: 100%px;
+    max-width: 1280px;
+    margin: auto;
+}
+
+.statement {
     font-size: 30px;
     color: #707070;
     text-align: center;
@@ -214,78 +217,76 @@ circle-1 p{
 
 
 
-.border-circle img{
+.border-circle img {
     width: 14%;
-   display: block;
+    display: block;
     margin: auto;
     position: relative;
-    bottom:40px;
-}
-    
-
-
-.statement-contents{
-    
+    bottom: 40px;
 }
 
 
 
-.statement-contents p{
+.statement-contents {}
+
+
+
+.statement-contents p {
     font-size: 15px;
     color: #707070;
     text-align: center;
     position: relative;
-    bottom:80px;
-   
+    bottom: 80px;
+
     line-height: 30px;
-    
-    
+
+
 }
 
-.leader{
+.leader {
     text-align: center;
     position: relative;
     bottom: 100px;
     font-size: 20px;
-    color:#707070;
-    
+    color: #707070;
+
 }
 
-.more-detail{
+.more-detail {
     position: relative;
-    bottom:80px;
-    
-    
+    bottom: 80px;
+
+
 }
 
-.more-detail p{
-    color:#ffffff;
+.more-detail p {
+    color: #ffffff;
     text-align: center;
     line-height: 51px;
 }
 
-        
+
 .members {
-            height: 800px;
-            width: 100%;
+    height: 800px;
+    width: 100%;
     max-width: 1280px;
     margin: auto;
-    
-        }
+
+}
 
 
-.flame1{
+.flame1 {
     position: relative;
-    left:8%;
+    left: 8%;
     width: 40%;
 }
 
 
 
 
-.team-kinmoku h1{
+.team-kinmoku h1 {
     font-size: 30px;
-    color:#707070;
+    color: #707070;
 }
 
 
@@ -294,162 +295,160 @@ circle-1 p{
 
 
 
-.line img{
-    width:40%;
+.line img {
+    width: 40%;
 }
 
-.explain p{
+.explain p {
     font-size: 15px;
     line-height: 30px;
     color: #707070;
 }
 
-.member-check{
+.member-check {
     border-radius: 181px;
     box-shadow: 0 0 99px #eeeeee;
-    color:#ffffff;
+    color: #ffffff;
     position: relative;
-    top:50px;
+    top: 50px;
 
 }
 
 
-.member-check p{
+.member-check p {
     text-align: center;
     line-height: 51px;
 }
 
 
 
-.team-explain{
+.team-explain {
     display: block;
-    width:36%;
+    width: 36%;
     float: right;
     position: relative;
-    right:100px;
-    top:20px;
-    
+    right: 100px;
+    top: 20px;
+
 }
 
-        
+
 .activity {
-            height: 800px;
-            width: 100%;
-            background-color: #F8FAFD;
+    height: 800px;
+    width: 100%;
+    background-color: #F8FAFD;
     max-width: ;
-    margin:;
-            
-            
-        }
+    margin: ;
 
 
-
-.activity-top{
-   
 }
 
 
-.activity-top p{
-    color:#707070;
+
+.activity-top {}
+
+
+.activity-top p {
+    color: #707070;
     position: relative;
-    top:50px;
-    
-    
+    top: 50px;
+
+
 }
 
-.activity h1{
+.activity h1 {
     font-size: 30px;
-    color:#707070;
-    
-    
+    color: #707070;
+
+
 }
 
 
-.activity img{
+.activity img {
     width: 48%;
-    float:left;
+    float: left;
     position: relative;
-   
-        
+
+
 }
 
 
-.activity-explain{
+.activity-explain {
     position: relative;
-    top:50px;
+    top: 50px;
 }
 
 
 
-.htmlcss{
+.htmlcss {
     background-color: #6948FB;
     margin-right: 3%;
-    
-    
+
+
 }
 
 
 
 
 
-.wordpress{
+.wordpress {
     background-color: #4288FB;
-    
-     margin-right: 3%;
-    
+
+    margin-right: 3%;
+
 }
 
 
 
-.dropbox{
+.dropbox {
     background-color: #FFB52F;
     margin-right: 3%;
-    
+
 }
 
-.pinterest{
+.pinterest {
     background-color: #FF702F;
-    
-    
+
+
 }
 
 
-.col-sm{
+.col-sm {
     border-radius: 10px;
-    
-     
-    
-    
+
+
+
+
 }
 
-.activity-explain span{
-    color:#ffffff;
+.activity-explain span {
+    color: #ffffff;
     font-size: 36px;
     position: relative;
-    top:20px;
+    top: 20px;
 }
 
 
 
-.activity-explain h3{
-    color:#ffffff;
+.activity-explain h3 {
+    color: #ffffff;
     position: relative;
-    top:70px;
-    font-size:20px;
+    top: 70px;
+    font-size: 20px;
 }
 
 
-.activity-explain p{
-    color:#ffffff;
+.activity-explain p {
+    color: #ffffff;
     position: relative;
-    top:100px;
+    top: 100px;
 }
 
 
 
-.row{
+.row {
     position: relative;
-    top:100px;
+    top: 100px;
     height: 331px;
 }
 
@@ -457,12 +456,12 @@ circle-1 p{
 
 
 
-.activity-top{
+.activity-top {
     width: 35%;
     margin-left: 8%;
     position: relative;
-    top:90px;
-    
+    top: 90px;
+
 }
 
 
@@ -473,46 +472,45 @@ circle-1 p{
 
 
 
-.flex{
-    
-   display: flex;
+.flex {
+
+    display: flex;
     position: relative;
-    top:90px;
-    
-    
+    top: 90px;
+
+
 }
 
-.flex span{
+.flex span {
     float: left;
-    color:#ffffff;
-    font-size:36px;
+    color: #ffffff;
+    font-size: 36px;
     position: relative;
-    left:4%;
-    top:10px;
+    left: 4%;
+    top: 10px;
 }
 
 
-.flex h2{
-    color:#ffffff;
+.flex h2 {
+    color: #ffffff;
     font-size: 20px;
     position: relative;
-    left:5%;
-    
-    
-    
-    
+    left: 5%;
+
+
+
+
 }
 
 
-.flex p{
-    color:#ffffff;
+.flex p {
+    color: #ffffff;
     font-size: 15px;
     line-height: 20px;
     position: relative;
     left: 2%;
-    
+
     padding: 5px
-    
 }
 
 
@@ -523,28 +521,28 @@ circle-1 p{
 
 
 
-    
-    
-    
-    
-   
-    
- 
-    
-        
-    
+
+
+
+
+
+
+
+
+
+
 }
 
 
-.dropbox{
-    
+.dropbox {
+
     background-color: #FFB52F;
-    
+
     height: 331px;
 }
 
 
-        
+
 .word {
     background-image: url(images/kagiflame.jpg);
     height: 800px;
@@ -554,52 +552,52 @@ circle-1 p{
     background-repeat: no-repeat;
     background-position: center;
     background-size: 65% auto;
-        }
-
-
-
-.word p{
-    text-align: center;
-   position: relative;
-    top:350px;
-  
 }
 
 
-        
-.detail {
-            height: 500px;
-            width: 100%;
-            background-color: #4288FB;
-    max-width: ;
-    
-    position: relative;
-    
-        }
 
-.main-detail p{
+.word p {
+    text-align: center;
+    position: relative;
+    top: 350px;
+
+}
+
+
+
+.detail {
+    height: 500px;
+    width: 100%;
+    background-color: #4288FB;
+    max-width: ;
+
+    position: relative;
+
+}
+
+.main-detail p {
     text-align: center;
     font-size: 30px;
     color: #ffffff;
-    
+
 }
 
 
-.main-detail img{
+.main-detail img {
     display: none;
 }
 
 
 
-.border-circle2 hr{
+.border-circle2 hr {
     background-color: #ffffff;
-    width:15%;
+    width: 15%;
     position: relative;
     bottom: 50px;
 }
 
-.border-circle2 p{
-    
+.border-circle2 p {
+
     background-color: #ffffff;
     position: relative;
     margin-left: auto;
@@ -608,48 +606,47 @@ circle-1 p{
 }
 
 
-.main-more-detail{
+.main-more-detail {
     color: #ffffff;
     text-align: center;
     position: relative;
-    bottom:160px;
+    bottom: 160px;
     line-height: 17px;
-    font-size:15px;
-    
-   
-    
+    font-size: 15px;
+
+
+
 }
 
-.detail-contents{
+.detail-contents {
 
-    
+
     width: 33%;
     height: 200px;
     float: left;
     position: relative;
     bottom: 150px;
-   
-    
-    
-    
-    
-    
+
+
+
+
+
+
 }
 
-.details{
+.details {
     text-align: center;
     color: #ffffff;
     position: relative;
-    bottom:200px;
-    
-}    
-    
+    bottom: 200px;
 
-.details h2{
-    position: relative;
-    bottom:50px;
 }
-    
+
+
+.details h2 {
+    position: relative;
+    bottom: 50px;
+}
 
 
 
@@ -658,56 +655,57 @@ circle-1 p{
 
 
 
-       
+
+
 footer {
-            height: 400px;
-            width: 100%;
-     max-width: 1280px;
+    height: 400px;
+    width: 100%;
+    max-width: 1280px;
     margin: auto;
 }
-           
+
 
 
 .footer-logo {
     text-align: center;
     padding-top: 200px;
-   
-    }
 
-.footer-logo img{
+}
+
+.footer-logo img {
     height: 100px;
-    
+
 }
 
 
 
 
-.Follow-us{
+.Follow-us {
     color: #707070;
     text-align: center;
     font-size: 20px;
     position: relative;
-    top:20px;
-    
+    top: 20px;
+
 }
 
 
-.facebook{
+.facebook {
     text-align: center;
     opacity: 0.3;
 }
- 
-  
 
 
 
 
-.footer-under{
+
+
+.footer-under {
     text-align: center;
     padding-top: 50px;
-    opacity:0.6;
-    color:#707070;
-    
+    opacity: 0.6;
+    color: #707070;
+
 }
 
 
@@ -727,48 +725,48 @@ footer {
 
 
 
-.reprezentative2{
-     height: 700px;
-            width: 100%px;
+.reprezentative2 {
+    height: 700px;
+    width: 100%px;
 }
 
 
 
-.kinmoku-members{
+.kinmoku-members {
     width: 100%;
     height: 500px;
-    
+
 }
 
 
-.kinmoku-coment{
-   
+.kinmoku-coment {
+
     display: block;
     width: 53%;
     margin: auto
 }
 
 
-.kinmoku-coment h1{
+.kinmoku-coment h1 {
     font-size: 30px;
-    color:#707070;
+    color: #707070;
 }
 
-.kinmoku-coment img{
+.kinmoku-coment img {
     float: left;
     width: 32%;
     position: relative;
-    top:10px;
-    
+    top: 10px;
+
 }
 
-.kinmoku-coment p{
+.kinmoku-coment p {
     font-size: 15px;
     line-height: 30px;
     position: relative;
-    top:50px;
+    top: 50px;
     color: #707070;
-    
+
 }
 
 
@@ -783,7 +781,7 @@ footer {
 
 
 
-.about-kinmoku{
+.about-kinmoku {
     height: 385px;
     width: 100%;
     background: linear-gradient(#6948FB, #4288FB);
@@ -793,54 +791,54 @@ footer {
 
 
 
-.about-kinmoku h1{
+.about-kinmoku h1 {
     text-align: center;
-    color:#ffffff;
-    font-size:30px;
+    color: #ffffff;
+    font-size: 30px;
     line-height: 60px;
     position: relative;
-    top:148px;
-    
+    top: 148px;
+
 }
 
-.about-kinmoku hr{
+.about-kinmoku hr {
     width: 7%;
     text-align: center;
-    color:#ffffff;
+    color: #ffffff;
     position: relative;
-    top:170px;
-    
+    top: 170px;
+
 }
 
 
 
 
-.space{
-    height:120px;
-    width:100%;
+.space {
+    height: 120px;
+    width: 100%;
     background-color: #ffffff;
 }
 
 
 
-.active-member1{
+.active-member1 {
     width: 100%;
-    height:800px;
-    
+    height: 800px;
+
 }
 
 
 
 
 
-.active-member2{
+.active-member2 {
     width: 100%;
-    height:800px;
+    height: 800px;
 }
 
 
 
-.big-image{
+.big-image {
     width: 40%;
     margin-left: 8%;
 }
@@ -852,160 +850,160 @@ footer {
 
 
 
-.active-member-explain{
+.active-member-explain {
     display: inline-block;
     width: 36%;
     float: right;
     position: relative;
-    right:8%;
-    top:56px;
-    
-    
+    right: 8%;
+    top: 56px;
+
+
 }
 
 
 
-.name h1{
+.name h1 {
     color: #707070;
-    font-size:30px;
-    
+    font-size: 30px;
+
 }
 
 
-.name p{
-    color:#707070;
-    font-size:15px;
+.name p {
+    color: #707070;
+    font-size: 15px;
     position: relative;
-    left:150px;
-    bottom:30px
+    left: 150px;
+    bottom: 30px
 }
 
 
 
-.left{
+.left {
     width: 47%;
     position: relative;
-    bottom:35px;
-    
+    bottom: 35px;
+
 }
 
 
-.skill{
-    color:#707070;
+.skill {
+    color: #707070;
     font-size: 15px;
-    
-    
+
+
 }
 
 
 
-.introduce{
+.introduce {
     position: relative;
-    top:30px;
-    color:#707070;
+    top: 30px;
+    color: #707070;
 }
 
 
-.SNS span{
+.SNS span {
     margin-right: 41px;
-    color:#707070;
-    height:20px;
+    color: #707070;
+    height: 20px;
     width: 2%;
     position: relative;
-    top:40px;
-        
+    top: 40px;
+
 }
 
 
-.active-member-explain{
+.active-member-explain {
     display: inline-block;
     width: 36%;
     float: right;
     position: relative;
-    right:8%;
-    top:56px;
-    
-    
+    right: 8%;
+    top: 56px;
+
+
 }
 
 
 
-.name-2 h1{
+.name-2 h1 {
     color: #707070;
-    font-size:30px;
-    
+    font-size: 30px;
+
 }
 
 
-.name-2 p{
-    color:#707070;
-    font-size:15px;
+.name-2 p {
+    color: #707070;
+    font-size: 15px;
     position: relative;
-    left:150px;
-    bottom:30px
+    left: 150px;
+    bottom: 30px
 }
 
 
 
-.left2{
+.left2 {
     width: 47%;
     position: relative;
-    bottom:35px;
-    
+    bottom: 35px;
+
 }
 
 
-.skill2{
-    color:#707070;
+.skill2 {
+    color: #707070;
     font-size: 15px;
-    
-    
+
+
 }
 
 
 
-.introduce2{
+.introduce2 {
     position: relative;
-    top:30px;
-    color:#707070;
+    top: 30px;
+    color: #707070;
 }
 
 
-.SNS2 span{
+.SNS2 span {
     margin-right: 41px;
-    color:#707070;
-    height:20px;
+    color: #707070;
+    height: 20px;
     width: 2%;
     position: relative;
-    top:40px;
-        
+    top: 40px;
+
 }
 
 
 
 
 
-.active-member-explain2{
+.active-member-explain2 {
     display: inline-block;
     width: 36%;
     margin-left: 8%;
     position: relative;
-    top:56px;
-    
-    
-    
-    
-    
+    top: 56px;
+
+
+
+
+
 }
 
 
-.big-image2{
+.big-image2 {
     width: 40%;
     position: relative;
-    bottom:125px;
-    left:4%;
-    
-    
+    bottom: 125px;
+    left: 4%;
+
+
 }
 
 
@@ -1013,97 +1011,94 @@ footer {
 
 
 
-.other-members{
-    
-    width:100%;
-    height:1620px;
-    
-    
-    
-    
-    
+.other-members {
+
+    width: 100%;
+    height: 1620px;
+
+
+
+
+
 }
 
 
-.other-member{
+.other-member {
     margin: 0;
-    padding:0;
-    
-    
-    
-}
+    padding: 0;
 
-.person{
-    
-    height:340;
+
 
 }
 
+.person {
+
+    height: 340;
+
+}
 
 
-.name2{
+
+.name2 {
     position: relative;
-    top:30px;
+    top: 30px;
 }
 
-.person-under{
+.person-under {
     width: 223px;
 }
 
 
 
-.-engineer{
-    color:#707070;
-    font-size:15px;
+.-engineer {
+    color: #707070;
+    font-size: 15px;
     position: relative;
-    top:10px;
-    
+    top: 10px;
+
 }
 
 
-.sns2 span{
+.sns2 span {
     margin-right: 41px;
-    color:#707070;
-    height:20px;
+    color: #707070;
+    height: 20px;
     width: 2%;
     position: relative;
-    top:30px;
+    top: 30px;
 
-    
+
 }
 
 
 
-.name2 h1{
+.name2 h1 {
     color: #707070;
-    font-size:20px;
-    
+    font-size: 20px;
+
 }
 
 
-.name2 p{
-    color:#707070;
-    font-size:15px;
+.name2 p {
+    color: #707070;
+    font-size: 15px;
     position: relative;
-    left:150px;
-    bottom:30px
+    left: 150px;
+    bottom: 30px
 }
 
 
 
 
-.person-under{
-    
-    
-}
+.person-under {}
 
 
 
 
-.space2{
-    width:100%;
-    height:100px;
-        
+.space2 {
+    width: 100%;
+    height: 100px;
+
 }
 
 
@@ -1117,13 +1112,13 @@ footer {
 
 
 
-.menu{
-        width:100%;
-        height: 100%;
-        background: linear-gradient(#6948FB, #4288FB);
-        margin-top: 0px;
-        padding-top: 0px;
-    }  
+.menu {
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(#6948FB, #4288FB);
+    margin-top: 0px;
+    padding-top: 0px;
+}
 
 
 
@@ -1133,64 +1128,64 @@ footer {
 
 
 .menu-icon {
-  color: #707070;
-  
-  font-size: 25px;
-  display: none;
-  position: relative;
-  left:26%;
-  
-  
+    color: #707070;
+
+    font-size: 25px;
+    display: none;
+    position: relative;
+    left: 26%;
+
+
 }
 
 
-.menu h2{
-    color:#ffffff;
+.menu h2 {
+    color: #ffffff;
     font-size: 20px;
     text-align: center;
     margin-bottom: 60px;
-    
-    
-    
 
-    
+
+
+
+
 }
 
 
 
-.menu-contents{
-   position: relative;
-    top:25%;
-    
+.menu-contents {
+    position: relative;
+    top: 25%;
+
 }
 
 
-.fa-times{
-    
-    color:#ffffff;
+.fa-times {
+
+    color: #ffffff;
     position: absolute;
-    left:90%;
-    top:40px;
-        
-    
-   
-      }
+    left: 90%;
+    top: 40px;
+
+
+
+}
 
 
 
 
 
-    
+
 
 /*レスポンシブ*/
 
 
 
 @media (min-width:768px) {
-    .team-explain{
-        position:absolute;
-        top:2000px;
-        
+    .team-explain {
+        position: absolute;
+        top: 2000px;
+
     }
 }
 
@@ -1198,25 +1193,25 @@ footer {
 
 
 
-@media (max-width:991px)and(min-width:768){
+@media (max-width:991px)and(min-width:768) {
     .menu-icon {
         display: none;
-        
-        
-        
-        
-        
-        
+
+
+
+
+
+
     }
-    
-    
-    .other-members{
+
+
+    .other-members {
         height: 2550px;
-        
+
     }
-    
-    
-    
+
+
+
 
 
 
@@ -1232,7 +1227,6 @@ footer {
 
 
 
-    
 
 
 
@@ -1255,25 +1249,6 @@ footer {
 
 
 
-  
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
 
 
 
@@ -1287,278 +1262,300 @@ footer {
 
 
 
-@media(max-width:767px){
-    
-    
-    
-    .header-list{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:767px) {
+
+
+
+    .header-list {
         display: none;
-    
-        
+
+
     }
-.menu-icon{
+
+    .menu-icon {
         display: block;
         margin: 23px;
-    
-}   
-        
-   
- header{
-       height: 60px ;
+
     }
-   
-    
-.header-logo{
-    line-height: 60px;    
+
+
+    header {
+        height: 60px;
     }
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    .menu{
-        width:100%;
+
+
+    .header-logo {
+        line-height: 60px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .menu {
+        width: 100%;
         height: 100%;
         background: linear-gradient(#6948FB, #4288FB);
-        
-    }  
-    
-    html, body {
-  height: 100%;
-     }
-    
-    
-    nav{
-        height: 60px;
-        
+
     }
-    
-    
-    .first-view{
+
+    html,
+    body {
+        height: 100%;
+    }
+
+
+    nav {
+        height: 60px;
+
+    }
+
+
+    .first-view {
         height: 745px;
     }
-    
-    .cool-word{
+
+    .cool-word {
         position: relative;
-        bottom:100px;
+        bottom: 100px;
     }
-    
-    .cool-word h1{
+
+    .cool-word h1 {
         font-size: 25px;
-        
+
     }
-    
+
     .sample-word {
         position: relative;
-        bottom:50px;
+        bottom: 50px;
     }
-    
-    .sample-word p{
+
+    .sample-word p {
         font-size: 10px;
-        
+
     }
-    
-    
-    .image1{
-      float: none;
+
+
+    .image1 {
+        float: none;
         position: static;
-      top: 0px;
+        top: 0px;
         bottom: 20px;
         margin-left: 0auto;
         margin-right: 0auto;
-      width: 214px;
+        width: 214px;
         height: 216px;
-        
-        
-      
-        
+
+
+
+
     }
-    
-    
-    .image2{
-        width:195px;
-        height:153px;
+
+
+    .image2 {
+        width: 195px;
+        height: 153px;
         margin-left: 0px;
-        position:relative;
-        bottom:50px;
-        
-        
-        
-        
+        position: relative;
+        bottom: 50px;
+
+
+
+
         display: ;
-        
+
     }
-    
-    
-    .circle-1{
-        height:95px;
-        
-        
-        
+
+
+    .circle-1 {
+        height: 95px;
+
+
+
     }
-    
-    .company{
+
+    .company {
         height: 95px;
     }
-    
-    .circle-1 p{
+
+    .circle-1 p {
         font-size: 15px;
         text-align: center;
         line-height: 95px;
         position: relative;
-        bottom:100px
+        bottom: 100px
     }
-    
-    .representative{
+
+    .representative {
         height: 600px;
         max-width: 450px;
         margin: auto;
-        
-        
+
+
     }
-    
-    
-    .representative2{
+
+
+    .representative2 {
         max-width: 450px;
         margin: auto;
     }
-    
-    .statement{
-        font-size:25px;
-        
-         }
-    
-    .border-circle img{
-        width:194px;
+
+    .statement {
+        font-size: 25px;
+
     }
-    
-    .statement-contents{
-       padding:0px 30px;
+
+    .border-circle img {
+        width: 194px;
     }
-    
-    .statement-contents p{
+
+    .statement-contents {
+        padding: 0px 30px;
+    }
+
+    .statement-contents p {
         font-size: 14px;
         text-align: left;
-    } 
-    
-    .leader{
-        font-size:15px;
     }
-    
-    .circle{
-        width:315px;
-        
+
+    .leader {
+        font-size: 15px;
     }
-    
-    
-    .members{
+
+    .circle {
+        width: 315px;
+
+    }
+
+
+    .members {
         height: 1000px;
         text-align: center;
     }
-    
-    
-    .flame1{
-        width:315px;
-        position:relative;
-        left:0%;
-       
-        
-        
+
+
+    .flame1 {
+        width: 315px;
+        position: relative;
+        left: 0%;
+
+
+
     }
-    
-    .team-explain{
+
+    .team-explain {
         float: none;
-        width:85%;
+        width: 85%;
         position: static;
-        left:100px;
+        left: 100px;
         margin: auto;
         margin-top: 100px;
-        max-width:450px;
-        
-        
-        
+        max-width: 450px;
+
+
+
     }
-    
-    .team-kinmoku h1{
+
+    .team-kinmoku h1 {
         font-size: 25px;
         text-align: left;
     }
-    
-    
-    
-    .line img{
+
+
+
+    .line img {
         width: 192px;
         margin-right: 100%;
-        
+
     }
-    
-    
-    .member-check{
+
+
+    .member-check {
         margin: auto;
     }
-    
-    
-    
-    .activity{
+
+
+
+    .activity {
         height: 1800px;
-        
+
     }
-    
-    .activity-top h1{
+
+    .activity-top h1 {
         font-size: 25px;
     }
 
 
-    .activity img{
-        width:192px;
+    .activity img {
+        width: 192px;
     }
 
 
     .activity-top {
-      width:100%;
-      margin: auto; 
+        width: 100%;
+        margin: auto;
         padding-right: 8%;
         padding-left: 8%;
     }
 
-    .activity-top p{
+    .activity-top p {
         font-size: 15px;
     }
-    
-    .htmlcss{
-        height: 300px;
-        margin-bottom: 10px;
-        margin-left: 8%;
-        margin-right: 8%;
-    }
-    
-    .wordpress{
-        height: 300px;
-        margin-bottom: 10px;
-        margin-left: 8%;
-        margin-right: 8%;
-        
-    }
 
-
-    .dropbox{
+    .htmlcss {
         height: 300px;
         margin-bottom: 10px;
         margin-left: 8%;
         margin-right: 8%;
     }
 
-    .pinterest{
+    .wordpress {
+        height: 300px;
+        margin-bottom: 10px;
+        margin-left: 8%;
+        margin-right: 8%;
+
+    }
+
+
+    .dropbox {
+        height: 300px;
+        margin-bottom: 10px;
+        margin-left: 8%;
+        margin-right: 8%;
+    }
+
+    .pinterest {
         height: 300px;
         margin-bottom: 10px;
         margin-left: 8%;
@@ -1566,65 +1563,63 @@ footer {
     }
 
 
-    .word{
-        background-size:80% auto;
-        
-    }
-    
-    
-    .word p{
-        
+    .word {
+        background-size: 80% auto;
+
     }
 
 
-    .detail{
+    .word p {}
+
+
+    .detail {
         height: 706px;
-        
-        
+
+
     }
 
 
-    .border-circle2 hr{
+    .border-circle2 hr {
         display: none;
     }
 
 
-    .border-circle2 p{
+    .border-circle2 p {
         display: none;
     }
-    
-    .main-detail p{
+
+    .main-detail p {
         font-size: 25px;
         text-align: left;
         margin-left: 8%;
         position: relative;
-        top:20px;
+        top: 20px;
     }
-    
-    
-    .main-detail img{
+
+
+    .main-detail img {
         display: block;
         width: 192px;
         margin-left: 8%;
         position: relative;
-        bottom:30px;
+        bottom: 30px;
         position: relative;
         top: 0px;
     }
 
 
-    .main-more-detail p{
+    .main-more-detail p {
         text-align: left;
         margin-left: 8%;
         position: relative;
-        top:110px;
-        
+        top: 110px;
+
     }
 
 
-    .details p{
+    .details p {
         position: relative;
-        top:60px;
+        top: 60px;
         text-align: left;
         margin-left: 8%;
         font-weight: lighter;
@@ -1632,61 +1627,61 @@ footer {
     }
 
 
-    .details h2{
-        bottom:0px;
-        top:60px;
+    .details h2 {
+        bottom: 0px;
+        top: 60px;
         font-size: 17px;
         text-align: left;
         margin-left: 8%;
     }
-    
-    
-    
-    
-    
-    
-    footer{
+
+
+
+
+
+
+    footer {
         height: 100px;
     }
 
-    
-        
-    
 
-/*レスポンシブ　　　ページ２　　*/
-    
-    .kinnmoku-members{
+
+
+
+    /*レスポンシブ　　　ページ２　　*/
+
+    .kinnmoku-members {
         max-width: 600px;
         margin: auto;
         height: 500px;
     }
-    
+
     .kinmoku-coment {
-        width:100%;
+        width: 100%;
         padding: 0 30px;
         max-width: 450px;
         margin: auto;
     }
-    
-    
-    .kinmoku-coment h1{
+
+
+    .kinmoku-coment h1 {
         font-size: 25px;
         position: relative;
-        
+
     }
 
-    
-    .kinmoku-coment img{
-        
-        width:192px;
+
+    .kinmoku-coment img {
+
+        width: 192px;
         position: relative;
-        bottom:110px;
+        bottom: 110px;
     }
-    
-    
-    .kinmoku-coment p{
+
+
+    .kinmoku-coment p {
         font-size: 14px;
-        
+
     }
 
 
@@ -1697,231 +1692,231 @@ footer {
 
 
 
-/*レスポンシブデザイン　　　ページ３　　*/
+    /*レスポンシブデザイン　　　ページ３　　*/
 
-.about-kinmoku{
-    height: 249px;
-    
-}
+    .about-kinmoku {
+        height: 249px;
 
-.about-kinmoku h1{
-    position: relative;
-    top:100px;
-    font-size: 22px;
-}
+    }
 
-
-.about-kinmoku hr{
-    display: none;
-}
-
-
-.active-member1{
-    height: 920px;
-    max-width: 375px;
-    margin: auto;
-    
-}
-
-
-.big-image{
-    width: 315px;
-    margin-left: 8%;
-    position: relative;
-    bottom: 60px;
-    
-}
-
-
-
-.big-image2{
-    width: 315px;
-    margin-left: 8%;
-    position: relative;
-    bottom:480px;
-}
-
-.active-member-explain{
-    width: 315px;
-    float: none;
-    display: contents;
-    position: relative;
-    bottom:200px;
-    
-    
-    
-    
-    
-    
-}
-
-    .name{
+    .about-kinmoku h1 {
         position: relative;
-        bottom:30px;
-    }
-
-    
-    .name h1{
-    font-size: 25px;
-    text-align: left;
-    margin-left: 8%;
-    
-    
-}
-  
-
-.left{
-    width: 192px;
-    margin-left: 8%;
-    position: relative;
-    bottom:65px;
-}
-
-.skill{
-      margin-left: 8%; 
-     position: relative;
-     bottom:35px;
+        top: 100px;
+        font-size: 22px;
     }
 
 
-.introduce{
-    display: inline-block;
-    width: 315px;
-    margin-left: 8%;  
-     position: relative;
-     top:0px;
-    bottom:40px;
-    font-size: 14px;
-   
+    .about-kinmoku hr {
+        display: none;
     }
 
 
-    .SNS{
+    .active-member1 {
+        height: 920px;
+        max-width: 375px;
+        margin: auto;
+
+    }
+
+
+    .big-image {
+        width: 315px;
+        margin-left: 8%;
         position: relative;
-        bottom:50px;
-    }
-    
-    .SNS span{
-    
-    margin-left: 8%;
-    display:inline-block;
-    
-    
+        bottom: 60px;
+
     }
 
 
-.active-member2{
+
+    .big-image2 {
+        width: 315px;
+        margin-left: 8%;
+        position: relative;
+        bottom: 480px;
+    }
+
+    .active-member-explain {
+        width: 315px;
+        float: none;
+        display: contents;
+        position: relative;
+        bottom: 200px;
+
+
+
+
+
+
+    }
+
+    .name {
+        position: relative;
+        bottom: 30px;
+    }
+
+
+    .name h1 {
+        font-size: 25px;
+        text-align: left;
+        margin-left: 8%;
+
+
+    }
+
+
+    .left {
+        width: 192px;
+        margin-left: 8%;
+        position: relative;
+        bottom: 65px;
+    }
+
+    .skill {
+        margin-left: 8%;
+        position: relative;
+        bottom: 35px;
+    }
+
+
+    .introduce {
+        display: inline-block;
+        width: 315px;
+        margin-left: 8%;
+        position: relative;
+        top: 0px;
+        bottom: 40px;
+        font-size: 14px;
+
+    }
+
+
+    .SNS {
+        position: relative;
+        bottom: 50px;
+    }
+
+    .SNS span {
+
+        margin-left: 8%;
+        display: inline-block;
+
+
+    }
+
+
+    .active-member2 {
         height: 920px;
         max-width: 375px;
         margin: auto;
     }
 
-.active-member-explain{
-    width: 315;
-    float: none;
-    display: contents;
-    position: relative;
-    
-    
-    
-    
-    
-    
-}
-
-
-    .active-member-explain2{
+    .active-member-explain {
+        width: 315;
+        float: none;
+        display: contents;
         position: relative;
-        
+
+
+
+
+
+
+    }
+
+
+    .active-member-explain2 {
+        position: relative;
+
         display: contents;
     }
-    
-    
-    
-    
-    
-    .name-2 h1{
-    font-size: 25px;
-    text-align: left;
-    margin-left: 8%;
-       
-    
-    
-}
-    
-    .name-2{
-        color:#707070;
+
+
+
+
+
+    .name-2 h1 {
+        font-size: 25px;
+        text-align: left;
+        margin-left: 8%;
+
+
+
+    }
+
+    .name-2 {
+        color: #707070;
         position: relative;
-        top:330px;
-    }
-  
-
-.left2{
-    width: 192px;
-    margin-left: 8%;
-    position: relative;
-    top:300px;
-}
-
-.skill2{
-      margin-left: 8%;
-    position: relative;
-    top:330px;
-    
-    
+        top: 330px;
     }
 
 
-.introduce2 p{
-    display: block;
-    width: 315px;
-    margin-left: 8%;  
-    position: relative;
-    top:330px;
-    font-size: 14px;
-    
-    
+    .left2 {
+        width: 192px;
+        margin-left: 8%;
+        position: relative;
+        top: 300px;
+    }
+
+    .skill2 {
+        margin-left: 8%;
+        position: relative;
+        top: 330px;
+
+
     }
 
 
-.SNS2 span{
-    
-   margin-left: 8%;
-    position: relative;
-    top:350px;
-    
-    
-    
+    .introduce2 p {
+        display: block;
+        width: 315px;
+        margin-left: 8%;
+        position: relative;
+        top: 330px;
+        font-size: 14px;
+
+
+    }
+
+
+    .SNS2 span {
+
+        margin-left: 8%;
+        position: relative;
+        top: 350px;
+
+
+
     }
 
 
 
-    .other-members{
-        height:4600px;
+    .other-members {
+        height: 4600px;
         max-width: 375px;
         margin: auto;
-        
+
     }
 
-    .other-member{
+    .other-member {
         margin-left: 8%;
     }
 
 
 
-    .word{
-        height:350px;
+    .word {
+        height: 350px;
         max-width: 500px;
     }
-    
-    
-    
 
 
 
-    .word p{
+
+
+
+    .word p {
         position: relative;
-        top:120px;
+        top: 120px;
     }
 
 
@@ -1929,7 +1924,7 @@ footer {
 
 
 
-     
+
 
 }
 
@@ -1937,63 +1932,64 @@ footer {
 
 
 
-@media screen and (min-width:576px) and ( max-width:767px){
-    .activity{
+@media screen and (min-width:576px) and (max-width:767px) {
+    .activity {
         height: 1000px;
     }
-    
-    
-    .detail{
+
+
+    .detail {
         height: 400px;
     }
-    
-    .kinmoku-members{
+
+    .kinmoku-members {
         height: 700px;
     }
 }
 
 
 
-    
-@media screen and (min-width:768px) and ( max-width:991px){
-    .other-members{
+
+@media screen and (min-width:768px) and (max-width:991px) {
+    .other-members {
         height: 2550px;
     }
 }
 
 
 
-@media  ( max-width:369px){
-    .header-logo{
-         position: relative;
-         bottom:10px;
-       }
-    .menu-icon{
+@media (max-width:369px) {
+    .header-logo {
         position: relative;
-        bottom:33px;
+        bottom: 10px;
+    }
+
+    .menu-icon {
+        position: relative;
+        bottom: 33px;
         margin: auto;
         margin-left: 80px;
-        }
-    
-    
-    headeer{
+    }
+
+
+    headeer {
         width: 100%;
     }
-    
-    
+
+
 }
 
 
-@media  ( max-width:373px){
-    .first-view{
+@media (max-width:373px) {
+    .first-view {
         height: 800px;
     }
-    
-    .company p{
+
+    .company p {
         position: absolute;
-        top:5px;
-        
-        
+        top: 5px;
+
+
     }
 }
 
@@ -2001,65 +1997,61 @@ footer {
 
 
 
-@media screen and (min-width:320px) and ( max-width:333px){
-    .statement{
+@media screen and (min-width:320px) and (max-width:333px) {
+    .statement {
         margin-top: 50px;
     }
-    
-    
-    .representative{
+
+
+    .representative {
         height: 800px;
     }
-    
-    .reprezentative2{
+
+    .reprezentative2 {
         height: 600px;
-        
+
     }
-    
-    
-    .statement{
-        position: relative;
-        top:50px;
-    }
-    
-    .border-circle{
+
+
+    .statement {
         position: relative;
         top: 50px;
     }
-    
-    .statement-contents{
-        
+
+    .border-circle {
         position: relative;
-        top:50px;
+        top: 50px;
     }
-    
-    
-    
-    
-    
-    .leader{
+
+    .statement-contents {
+
+        position: relative;
+        top: 50px;
+    }
+
+
+
+
+
+    .leader {
         position: relative;
         top: 30px;
     }
 
 
 
-    .kinmoku-members{
+    .kinmoku-members {
         height: 800px;
     }
 
 
 
-    .word{
-        height:  300px;
+    .word {
+        height: 300px;
     }
 
 
-    .word p{
-      
-        
-        
-    }
+    .word p {}
 
 
 
@@ -2072,37 +2064,35 @@ footer {
 
 
 
-@media screen and (min-width:334px) and ( max-width:575px){
-     .kinmoku-members{
+@media screen and (min-width:334px) and (max-width:575px) {
+    .kinmoku-members {
         height: 700px;
     }
 }
 
 
-@media screen and (min-width:326px) and ( max-width:333px){
-    .word{
-        height:350px;
+@media screen and (min-width:326px) and (max-width:333px) {
+    .word {
+        height: 350px;
     }
 }
 
 
 
 
-@media screen and (min-width:320px) and ( max-width:365px){
-    .big-image{
-        width:300px;
+@media screen and (min-width:320px) and (max-width:365px) {
+    .big-image {
+        width: 300px;
         margin: auto;
     }
-    
-    .big-image2{
-        width:300px;
+
+    .big-image2 {
+        width: 300px;
         margin: auto;
     }
-    
-    .person{
-        width:300px;
+
+    .person {
+        width: 300px;
         margin: auto;
     }
 }
-
-
