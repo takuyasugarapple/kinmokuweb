@@ -1,6 +1,9 @@
 @charset="utf-8";
 
-
+::selection{
+    background-color: #4288FB;
+    color: #fff;
+}
 
 
         
@@ -786,6 +789,7 @@ footer {
 .about-kinmoku{
     height: 385px;
     width: 100%;
+    margin-bottom: 120px;
     background: linear-gradient(#6948FB, #4288FB);
 }
 
