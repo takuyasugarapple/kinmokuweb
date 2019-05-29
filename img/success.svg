@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
-  <g id="グループ化_802" data-name="グループ化 802" transform="translate(-148 -110)">
-    <rect id="長方形_82" data-name="長方形 82" width="80" height="80" rx="40" transform="translate(148 110)" fill="#4288fb"/>
-    <g id="check-mark-black-outline" transform="translate(171 127.954)">
-      <path id="パス_629" data-name="パス 629" d="M32.7,14.035,12.344,34.4a.458.458,0,0,1-.649,0L.134,22.834a.459.459,0,0,1,0-.648l2.809-2.809a.459.459,0,0,1,.649,0L12.02,27.8,29.247,10.577a.459.459,0,0,1,.649,0L32.7,13.386A.458.458,0,0,1,32.7,14.035Z" fill="#fff"/>
-    </g>
-  </g>
-</svg>
